@@ -1,0 +1,3 @@
+# debian/1.14-1
+git_src_commit 6a9bebc9faa423065fffee04439a6ab4ec55213b https://salsa.debian.org/debian/gzip.git
+version_suffix=gl0~bp2150
